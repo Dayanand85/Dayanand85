@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning.
 - 🌱 I have done pro degree in Data Analytics from ImarticusLearning,bangalore mentorted by KPMG.
 - With this course i learnt R,Python,SQL,Tableau,PowerBI and worked in many projects.
-- I am currently working as a Data Analytics  with Samatrix.io(A consulting company).
+- I am currently working as a Data Scientist  with Reyedin Techstack.
 - 💞️ I’m looking forward to work with mnc company as a data scientist.
 - 📫 How to reach me das.dayanand@gmail.com /9312824960.
 
